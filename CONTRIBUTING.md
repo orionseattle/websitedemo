@@ -2,4 +2,4 @@ A CONTRIBUTING.md file, in your open source repository or site, provides potenti
 Anthony Santos added this line.
 
 <h1>CODE OF CONDUCT</h1>
-<p>This project and everyone participating in it is governed by our group's code of conduct, which can be found/edited here. By participating, you are expected to uphold this code. Anyone is able to report violation of our code to all other group members at any point.</p>
+<p>This project and everyone participating in it is governed by our group's [Code of Conduct](CODEOFCONDUCT.md). By participating, you are expected to uphold this code. Anyone is able to report violation of our code to all other group members at any point.</p>
